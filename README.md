@@ -4,7 +4,7 @@ This repository contains various growth marketing projects I've worked on, highl
 
 ## Project 1: Instagram Sales Funnel Automation
 - **Objective:** Automate the sales funnel to increase lead conversion
-- **Methodology:** Using ManyChat for Instagram automation, creating automated sequences for customer engagement
+- **Methodology:** Creating automated sequences for customer engagement
 - **Results:** 
   - 25% increase in lead conversion rates
   - 30% reduction in manual workload
