@@ -22,7 +22,7 @@ This repository contains various growth marketing projects I've worked on, highl
 - **Results:** 
   - 35% increase in sales
   - Enhanced customer journey experience
-  - 
+    
 ## Project 4: Social Media Growth Strategy
 - **Objective:** Increase engagement and followers on Instagram
 - **Methodology:** Regular posts, targeted ads, content calendar
@@ -45,21 +45,14 @@ This repository contains various growth marketing projects I've worked on, highl
   - 35% increase in average time on page
  
 ## Project 7: Paid Ads Optimization for E-commerce
-
-This project focuses on optimizing paid ad campaigns for an e-commerce business. The aim was to enhance campaign performance, improve ROI, and drive higher conversion rates through strategic paid ad management.
-
-## Objective
-To optimize paid ad campaigns and increase ROI and conversion rates for an e-commerce business.
-
-## Methodology
-- **Platforms Used:** Facebook Ads, Instagram Ads, Google Ads, Bing Ads
+- **Objective:** To optimize paid ad campaigns and increase ROI and conversion rates for an e-commerce business.
+- **Methodology:** Facebook Ads, Instagram Ads, Google Ads, Bing Ads
 - **Approach:** 
   - Analyzed historical ad performance data to identify key areas for improvement.
   - Implemented A/B testing, targeting, and bidding strategies.
   - Utilized advanced analytics to track performance and adjust campaigns in real-time.
   - Integrated retargeting strategies to re-engage potential customers.
-
-## Results
+- **Results:**
 - Conversion Rate Increase:** 30%
 - Cost Per Acquisition (CPA) Reduction:** 25%
 - Return on Ad Spend (ROAS) Improvement:** 40%
