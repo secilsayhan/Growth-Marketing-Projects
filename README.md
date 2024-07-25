@@ -52,7 +52,7 @@ This repository contains various growth marketing projects I've worked on, highl
   - Utilized advanced analytics to track performance and adjust campaigns in real-time.
   - Integrated retargeting strategies to re-engage potential customers.
 - **Results:**
-- Conversion Rate Increase:** 30%
-- Cost Per Acquisition (CPA) Reduction:** 25%
-- Return on Ad Spend (ROAS) Improvement:** 40%
-- Overall Sales Growth:** 35%
+- Conversion Rate Increase: 30%
+- Cost Per Acquisition (CPA) Reduction: 25%
+- Return on Ad Spend (ROAS) Improvement: 40%
+- Overall Sales Growth: 35%
