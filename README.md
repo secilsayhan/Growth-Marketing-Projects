@@ -47,7 +47,6 @@ This repository contains various growth marketing projects I've worked on, highl
 ## Project 7: Paid Ads Optimization for E-commerce
 - **Objective:** To optimize paid ad campaigns and increase ROI and conversion rates for an e-commerce business.
 - **Methodology:** Facebook Ads, Instagram Ads, Google Ads, Bing Ads
-- **Approach:** 
   - Analyzed historical ad performance data to identify key areas for improvement.
   - Implemented A/B testing, targeting, and bidding strategies.
   - Utilized advanced analytics to track performance and adjust campaigns in real-time.
