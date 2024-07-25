@@ -22,3 +22,24 @@ This repository contains various growth marketing projects I've worked on, highl
 - **Results:** 
   - 40% increase in website traffic
   - 35% increase in average time on page
+ 
+## Project 3: Paid Ads Optimization for E-commerce
+
+This project focuses on optimizing paid ad campaigns for an e-commerce business. The aim was to enhance campaign performance, improve ROI, and drive higher conversion rates through strategic paid ad management.
+
+## Objective
+To optimize paid ad campaigns and increase ROI and conversion rates for an e-commerce business.
+
+## Methodology
+- **Platforms Used:** Facebook Ads, Instagram Ads, Google Ads, Bing Ads
+- **Approach:** 
+  - Analyzed historical ad performance data to identify key areas for improvement.
+  - Implemented A/B testing, targeting, and bidding strategies.
+  - Utilized advanced analytics to track performance and adjust campaigns in real-time.
+  - Integrated retargeting strategies to re-engage potential customers.
+
+## Results
+- Conversion Rate Increase:** 30%
+- Cost Per Acquisition (CPA) Reduction:** 25%
+- Return on Ad Spend (ROAS) Improvement:** 40%
+- Overall Sales Growth:** 35%
