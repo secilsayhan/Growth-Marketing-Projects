@@ -23,7 +23,7 @@ This repository contains various growth marketing projects I've worked on, highl
   - 40% increase in website traffic
   - 35% increase in average time on page
  
-## Project 3: Paid Ads Optimization for E-commerce
+## Project 4: Paid Ads Optimization for E-commerce
 
 This project focuses on optimizing paid ad campaigns for an e-commerce business. The aim was to enhance campaign performance, improve ROI, and drive higher conversion rates through strategic paid ad management.
 
